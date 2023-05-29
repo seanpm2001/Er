@@ -1,0 +1,56 @@
+#!/usr/bin/env Rscript
+# This file is a mixture of Ukrainian and English language text, and is also not functional yet. I want to get the translations down and corrected before I start implementing it.
+# These translations will likely need correction.
+"if" = "якщо"
+"else" = "ще"
+"repeat" = "повторити"
+"while" = "Хоча"
+"function" = "функція"
+"for" = "для"
+"in" = "В"
+"break" = "Перерва"
+"TRUE" = "СПРАВЖНІЙ"
+"FALSE" = "БРЕХНЯ"
+"NULL" = "НУЛЬ"
+"Inf" = "Інф"
+"NaN" = "В"
+"NA" = "НА"
+"NA_integer_" = "НА_Ціле-число_"
+"NA_real_" = "НА_справжній_"
+"NA_complex_" = "НА_комплекс_"
+"NA_character_" = ""НА_знак_"
+"..." = "..."
+"..1" = "..1"
+# Not yet translated
+22. ..2
+23. ..3
+24. ..4
+25. ..5
+26. ..6
+27. ..7
+28. ..8
+29. ..9
+30. \'
+31. \"
+32. \n
+33. \r
+34. \t
+35. \b
+36. \a
+37. \f
+38. \v
+39. \\
+40. \nnn
+41. \xnn
+42. \unnnn \u{nnnn}
+43. \Unnnnnnnn \U{nnnnnnnn}
+44. \0
+45. \nul
+46. assign
+47. get
+48. `#` Comment
+49. tag
+50. value
+51. object
+52. break
+# File version: 1 (2023, Sunday, May 28th at 5:11 pm PST)
