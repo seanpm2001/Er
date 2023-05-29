@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Р (er) unofficially: Я is a set of subsets for the R programming language that enable native Cyrillic-based language support, making it easier to program in R in 20+ different languages.
